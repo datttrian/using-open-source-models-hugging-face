@@ -1,6 +1,5 @@
-# Import AutoModelForConditionalGeneration from transformers
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
 # Load the pre-trained google/flan-t5-base model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
