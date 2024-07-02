@@ -64,5 +64,5 @@ hf_token = os.environ["HUGGINGFACE_TOKEN"]
 hf_hub.login(hf_token)
 
 # Push the new / improved dataset to the hub
-your_username = ""
+your_username = "datttrian"
 new_dataset.push_to_hub(f"{your_username}/fashion_image_caption-100")
