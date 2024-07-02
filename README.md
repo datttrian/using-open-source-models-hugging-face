@@ -1,5 +1,9 @@
 # Using Open Source AI Models with Hugging Face
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datttrian/using-open-source-models-hugging-face/blob/main/src/notebook.ipynb)
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/datttrian/using-open-source-models-hugging-face )
+
 Deep dive into open source AI, explore the Hugging Face ecosystem, and build an automated image captioning system.
 
 ![Clear as Data](http://drive.google.com/uc?export=view&id=1PJVtMhPE_h3g2c9wXm9tf6_pIhvMyDRI)
